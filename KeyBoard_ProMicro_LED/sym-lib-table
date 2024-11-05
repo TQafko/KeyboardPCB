@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "promicro")(type "Legacy")(uri "C:/Users/qafkot/Downloads/ProMicroKiCad-master/ProMicroKiCad-master/promicro_library/promicro.lib")(options "")(descr ""))
+  (lib (name "CherryMX")(type "Legacy")(uri "C:/Users/qafkot/Downloads/kicad-libraries-master/kicad-libraries-master/symbols/CherryMX.lib")(options "")(descr ""))
+)
